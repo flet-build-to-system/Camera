@@ -1,6 +1,6 @@
 from flet import *
 
-def main(page: page):
+def main(page: Page):
   page.title = "openCamera "
   page.window_width = 800
   page.window_height = 600
